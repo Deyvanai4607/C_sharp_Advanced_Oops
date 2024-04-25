@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "devi",
+    "FatherName": "kaliyaperumal",
+    "PhoneNumber": 34567987,
+    "Gender": 1
+  },
+  {
+    "Name": "nila",
+    "FatherName": "kaliyaperumal",
+    "PhoneNumber": 345767987,
+    "Gender": 1
+  },
+  {
+    "Name": "dhivya",
+    "FatherName": "kaliyaperumal",
+    "PhoneNumber": 345967987,
+    "Gender": 1
+  },
+  {
+    "Name": "bala",
+    "FatherName": "kaliyaperumal",
+    "PhoneNumber": 345637987,
+    "Gender": 0
+  },
+  {
+    "Name": "ashok",
+    "FatherName": "kaliyaperumal",
+    "PhoneNumber": 345676987,
+    "Gender": 0
+  }
+]
